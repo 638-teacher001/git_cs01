@@ -11,6 +11,8 @@ namespace git_cs01
         static void Main(string[] args)
         {
             Console.WriteLine("山田太郎");
+            Console.WriteLine("山田太郎");
+            Console.WriteLine("山田太郎");
         }
     }
 }
